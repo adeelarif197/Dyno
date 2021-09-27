@@ -112,6 +112,11 @@ export default class Profile_Screen extends Component {
                         <Text style={{ marginLeft: 5, fontSize: 16, fontWeight: 'bold', color: '#D45740',padding:16 }}>Logout</Text>
                     </TouchableOpacity>
                 </View>
+
+                <View style={{alignItems:'center',marginTop:30,}}>
+                    <Text style={{color:'gray',fontSize:16}}>@ Texi App 2021</Text>
+                    <Text style={{color:'gray',fontSize:10}}>All Rights Reserved.</Text>
+                </View>
             </View>
         )
     }

@@ -16,7 +16,6 @@ export default class Small_Buttons extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        padding: 15,
         marginLeft: 170,
         marginRight: 25,
         borderRadius: 5,
@@ -27,6 +26,7 @@ const styles = StyleSheet.create({
         alignSelf: 'center',
         color: 'white',
         fontWeight: 'bold',
-        fontSize: 16
+        fontSize: 16,
+        padding: 15,
     }
 })

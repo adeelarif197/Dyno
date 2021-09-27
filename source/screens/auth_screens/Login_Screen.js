@@ -86,7 +86,7 @@ export default class Login_Screen extends Component {
                     <View style={styles.button_View}>
                         <Small_Buttons
                             title='Login'
-                            navigation={() => this.props.navigation.navigate('Profile_Screen')} />
+                            navigation={() => this.props.navigation.navigate('Home_Screen')} />
                     </View>
                 </ScrollView>
             </View>
