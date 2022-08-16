@@ -36,7 +36,7 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = TaxiApp;
+			remoteInfo = Dyno;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -105,7 +105,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* TaxiApp */ = {
+		13B07FAE1A68108700A75B9A /* Dyno */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -115,7 +115,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = TaxiApp;
+			name = Dyno;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -216,9 +216,9 @@
 			);
 			dependencies = (
 			);
-			name = TaxiApp;
-			productName = TaxiApp;
-			productReference = 13B07F961A680F5B00A75B9A /* TaxiApp.app */;
+			name = Dyno;
+			productName = Dyno;
+			productReference = 13B07F961A680F5B00A75B9A /* Dyno.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

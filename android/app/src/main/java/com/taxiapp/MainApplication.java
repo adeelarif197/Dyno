@@ -1,4 +1,4 @@
-package com.taxiapp;
+package com.dyno;
 
 import android.app.Application;
 import android.content.Context;

@@ -1,5 +1,5 @@
 {
-  "name": "taxiapp",
+  "name": "dyno",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,6 +15,8 @@
     "@react-native-masked-view/masked-view": "^0.2.6",
     "@react-navigation/native": "^6.0.2",
     "@react-navigation/stack": "^6.0.7",
+    "lottie-ios": "^3.4.0",
+    "lottie-react-native": "^5.1.4",
     "react": "17.0.2",
     "react-native": "0.65.1",
     "react-native-confirmation-code-input": "^1.0.4",
@@ -24,11 +26,14 @@
     "react-native-gesture-handler": "^1.10.3",
     "react-native-maps": "^0.29.3",
     "react-native-outline-input": "^1.0.8",
+    "react-native-paper": "^5.0.0-rc.4",
     "react-native-permissions": "^3.0.5",
     "react-native-phone-number-input": "^2.1.0",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.6.0",
-    "react-native-vector-icons": "^8.1.0"
+    "react-native-vector-icons": "^8.1.0",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
